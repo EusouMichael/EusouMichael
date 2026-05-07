@@ -25,11 +25,11 @@ Tenho desenvolvido projetos práticos com foco em análise de dados, criação d
 
 ## 📊 Projetos
 
-🔹 Dashboard Financeiro 
-*  https://github.com/EusouMichael/Portfolio_Analise_Financeira
+🔹 Dashboard Financeiro
+*    https://github.com/EusouMichael/Portfolio_Analise_Financeira
 
-🔹 Dashboard de Vendas 
-*   https://github.com/EusouMichael/Portfolio_analise_de_Vendas
+🔹 Dashboard de Vendas
+*    https://github.com/EusouMichael/Portfolio_analise_de_Vendas
 ---
 
 ## 📈 Atualmente
