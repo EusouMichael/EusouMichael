@@ -35,7 +35,7 @@ Tenho desenvolvido projetos práticos com foco em análise de dados, criação d
 ## 📈 Atualmente
 
 * 📚 Estudando Análise de Dados e IA (Alura)
-* ☁️ AWS re/Start – Escola da Nuvem *(início previsto)*
+* ☁️ AWS re/Start – Escola da Nuvem 
 * 📊 Construindo portfólio em dados
 
 ---
