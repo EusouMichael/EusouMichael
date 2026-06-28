@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou o Michael Ferreira
 
-🎯 Em transição para a área de **Análise de Dados**
+🎯  **Análise de Dados**
 📊 Foco em **Power BI, SQL e Excel**
 📍 Brasília - DF
 
