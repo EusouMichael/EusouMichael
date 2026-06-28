@@ -6,7 +6,6 @@
 
 Building data-driven solutions with Power BI, SQL, Python and AWS.
 
-<br>
 
 <a href="https://www.linkedin.com/in/michael-ferreira-5a4254182">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
@@ -43,13 +42,12 @@ I enjoy transforming raw data into reliable information that supports strategic 
 
 # Tech Stack
 
-<div align="center">
+<div align="center"> 
 
 ### Data Analytics
-
-<img src="https://skillicons.dev/icons?i=python,git,github"/>
-
-<br>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,git,github,aws,vscode"/>
+</p>
 
 <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
