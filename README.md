@@ -1,7 +1,7 @@
 # 👋 Olá, eu sou o Michael Ferreira
 
 🎯  **Análise de Dados**
-📊 Foco em **Power BI, SQL e Excel**
+📊 Foco em **Power BI, SQL,Python, Excel, Cloud Computing e AWS**
 📍 Brasília - DF
 
 ---
