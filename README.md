@@ -7,7 +7,7 @@
 Building data-driven solutions with Power BI, SQL, Python and AWS.
 
 
-<a href="https://www.linkedin.com/in/michael-ferreira-5a4254182">
+<a href="www.linkedin.com/in/souomichael">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
