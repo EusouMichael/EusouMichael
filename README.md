@@ -187,7 +187,7 @@ English — Kultivi
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/michael-ferreira-5a4254182">
+<a href="www.linkedin.com/in/souomichael">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
 </a>
 
