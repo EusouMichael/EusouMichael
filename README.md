@@ -2,154 +2,120 @@
 
 # Michael Ferreira
 
-### Data Analyst • Business Intelligence • Cloud Computing
+### Data Analyst | Business Intelligence | SQL | Power BI | Python
 
-Building data-driven solutions with Power BI, SQL, Python and AWS.
+Transformando dados em análises, indicadores e insights para apoiar decisões de negócio.
 
-
-<a href="www.linkedin.com/in/souomichael">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/michael-ferreira-5a4254182/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
-
-<a href="mailto:michaelcorrespondente@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<img src="https://komarev.com/ghpvc/?username=EusouMichael&style=for-the-badge&color=blue"/>
 
 </div>
 
 ---
 
-# About
+## 👋 Sobre mim
 
-Graduated in Financial Management with professional experience in administrative and financial operations.
+Profissional com formação em Gestão Financeira e experiência em operações administrativas e financeiras, atualmente direcionando minha carreira para **Análise de Dados e Business Intelligence**.
 
-Currently focused on Data Analytics, developing end-to-end projects involving data extraction, transformation, modeling, visualization and business intelligence.
+Tenho desenvolvido projetos práticos envolvendo:
 
-My main interests are:
+- análise e visualização de dados;
+- modelagem de dados;
+- SQL e bancos de dados relacionais;
+- Power BI e DAX;
+- Python e Pandas;
+- processos de ETL;
+- fundamentos de Cloud Computing e AWS.
 
-- Business Intelligence
-- Data Analytics
-- Data Visualization
-- ETL Pipelines
-- Cloud Computing
-- Data Modeling
-
-I enjoy transforming raw data into reliable information that supports strategic decision-making.
-
----
-
-# Tech Stack
-
-<div align="center"> 
-
-### Data Analytics
-<p align="center">
-<img src="https://skillicons.dev/icons?i=python,git,github,aws,vscode"/>
-</p>
-
-<img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge"/>
-
-</div>
+Meu foco é transformar dados brutos em informações confiáveis, indicadores e insights que possam apoiar decisões de negócio.
 
 ---
 
-# Featured Projects
+## 🛠️ Tecnologias
 
-## Financial Analytics Dashboard
+**Dados & Analytics**
 
-Power BI project focused on financial KPIs, DAX calculations and executive dashboards.
+`SQL` `Power BI` `DAX` `Power Query` `Python` `Pandas` `Excel`
 
-**Highlights**
+**Engenharia & Cloud**
 
-- Star Schema
-- Power Query
-- DAX
-- Financial KPIs
-
-🔗
-https://github.com/EusouMichael/Portfolio_Analise_Financeira
+`ETL` `Data Modeling` `SQLite` `AWS` `Git` `GitHub`
 
 ---
 
-## Sales Analytics Dashboard
+## ⭐ Projetos em destaque
 
-Commercial performance dashboard with interactive reports and business metrics.
+### 1. Product Growth Analytics — Retenção de usuários
 
-**Highlights**
+Projeto de Product Analytics baseado no case da Palavritas, com foco em identificar fatores associados à retenção e transformar análises em hipóteses de negócio e experimentos A/B.
 
-- Sales Analysis
-- Power BI
-- Data Modeling
-- KPI Design
+**Competências:** Power BI · DAX · Power Query · SQL · Modelagem Star Schema · Product Analytics
 
-🔗
-https://github.com/EusouMichael/Portfolio_analise_de_Vendas
+🔗 https://github.com/EusouMichael/Product-Growth-Analytics
 
 ---
 
-## World Cup 2026 Analytics
+### 2. Serenatto Café & Bistrô — Estudos de SQL
 
-Complete Data Analytics project built from public APIs.
+Projeto prático de banco de dados relacional utilizando SQLite, com modelagem, carga de dados, consultas, JOINs, subconsultas, Views, Triggers e integridade referencial.
 
-Pipeline includes:
+**Competências:** SQL · SQLite · Banco de Dados Relacional · Views · Triggers
 
-✔ Data Collection
-
-✔ Python Automation
-
-✔ ETL
-
-✔ Data Cleaning
-
-✔ Data Modeling
-
-✔ Power BI Dashboard
-
-✔ Business KPIs
-
-✔ Documentation
-
-🔗
-
-https://github.com/EusouMichael/WorldCup2026-Analytics
+🔗 https://github.com/EusouMichael/serenatto-sql-estudos
 
 ---
 
-# Current Learning
+### 3. Financial Analytics — Power BI
 
-Cloud Computing
+Dashboard financeiro para análise de receitas, despesas, lucro e margem, utilizando Power Query, DAX e modelagem de dados.
 
-AWS re/Start
+**Competências:** Power BI · DAX · Power Query · Data Modeling · Financial Analytics
 
-Advanced SQL
-
-Python for Data Analysis
-
-Power BI Advanced
-
-Data Engineering Fundamentals
+🔗 https://github.com/EusouMichael/Portfolio_Analise_Financeira
 
 ---
 
-# Certifications
+### 4. Sales Analytics — Power BI
 
-AWS re/Start *(In Progress)*
+Dashboard para análise de faturamento, produtos, vendedores, categorias e evolução das vendas ao longo do tempo.
 
-Data Analytics *(In Progress)*
+**Competências:** Power BI · DAX · Power Query · Data Modeling · Sales Analytics
 
-Tableau — Cisco Networking Academy
-
-English — Kultivi
+🔗 https://github.com/EusouMichael/Portfolio_analise_de_Vendas
 
 ---
 
-# GitHub Analytics
+### 5. World Cup 2026 Analytics
+
+Projeto em desenvolvimento envolvendo exploração de dados, Python/Pandas, processamento de dados e análise de partidas e seleções.
+
+**Competências:** Python · Pandas · Data Analysis · ETL · APIs · Power BI
+
+🔗 https://github.com/EusouMichael/WorldCup2026-Analytics
+
+---
+
+## 📚 Estudos atuais
+
+- SQL e Banco de Dados
+- Power BI e DAX
+- Python para Análise de Dados
+- Data Engineering Fundamentals
+- AWS Cloud / AWS re/Start
+- Inglês
+
+---
+
+## 🎯 Objetivo profissional
+
+Busco oportunidades como **Data Analyst / BI Analyst**, com foco em análise de dados, construção de indicadores, visualização e suporte à tomada de decisão.
+
+Também tenho interesse em evoluir progressivamente para **Analytics Engineering, Data Engineering e Cloud Analytics**.
+
+---
+
+## 📊 GitHub
 
 <div align="center">
 
@@ -159,40 +125,10 @@ English — Kultivi
 
 </div>
 
-<br>
+---
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=EusouMichael&theme=transparent&hide_border=true"/>
-
-</div>
-
----
-
-# Professional Goals
-
-• Data Analyst
-
-• Business Intelligence
-
-• Cloud Analytics
-
-• Data Engineering
-
-• AWS Cloud
-
----
-
-# Connect with me
-
-<div align="center">
-
-<a href="www.linkedin.com/in/souomichael">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge"/>
-</a>
-
-<a href="mailto:michaelcorrespondente@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge"/>
-</a>
+📌 **Portfólio em evolução contínua — projetos, estudos e aplicações práticas em Dados.**
 
 </div>
