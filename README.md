@@ -56,7 +56,17 @@ Projeto de Product Analytics baseado no case da Palavritas, com foco em identifi
 
 ---
 
-### 2. Serenatto Café & Bistrô — Estudos de SQL
+### 2. LH Nautical — Data Analytics & Business Intelligence
+
+Projeto completo de análise de dados desenvolvido a partir de um desafio técnico da Lighthouse / Indicium AI. O trabalho percorre o fluxo de EDA, modelagem e criação de schema no PostgreSQL, carregamento de dados, análises em SQL e Python, previsão de demanda, recomendação de produtos e construção de dashboard no Power BI.
+
+**Competências:** PostgreSQL · SQL · Python · Pandas · NumPy · Power BI · DAX · ETL · Data Modeling · Forecasting · Recommendation Systems
+
+🔗 https://github.com/EusouMichael/LH_Nautical
+
+---
+
+### 3. Serenatto Café & Bistrô — Estudos de SQL
 
 Projeto prático de banco de dados relacional utilizando SQLite, com modelagem, carga de dados, consultas, JOINs, subconsultas, Views, Triggers e integridade referencial.
 
@@ -66,7 +76,7 @@ Projeto prático de banco de dados relacional utilizando SQLite, com modelagem, 
 
 ---
 
-### 3. Financial Analytics — Power BI
+### 4. Financial Analytics — Power BI
 
 Dashboard financeiro para análise de receitas, despesas, lucro e margem, utilizando Power Query, DAX e modelagem de dados.
 
@@ -76,7 +86,7 @@ Dashboard financeiro para análise de receitas, despesas, lucro e margem, utiliz
 
 ---
 
-### 4. Sales Analytics — Power BI
+### 5. Sales Analytics — Power BI
 
 Dashboard para análise de faturamento, produtos, vendedores, categorias e evolução das vendas ao longo do tempo.
 
@@ -86,7 +96,7 @@ Dashboard para análise de faturamento, produtos, vendedores, categorias e evolu
 
 ---
 
-### 5. World Cup 2026 Analytics
+### 6. World Cup 2026 Analytics
 
 Projeto em desenvolvimento envolvendo exploração de dados, Python/Pandas, processamento de dados e análise de partidas e seleções.
 
