@@ -129,5 +129,5 @@ Também tenho interesse em evoluir progressivamente para **Analytics Engineering
 ## Links
 
 - GitHub: https://github.com/EusouMichael
-- LinkedIn: https://www.linkedin.com/in/michael-ferreira-5a4254182/
+- LinkedIn: https://www.linkedin.com/in/souomichael
 - Credly: https://www.credly.com/users/michael-ferreira-dos-santos/badges/credly
